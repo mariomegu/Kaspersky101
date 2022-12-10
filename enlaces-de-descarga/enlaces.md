@@ -1,4 +1,8 @@
-# Enlaces
+# 🔗 Enlaces
+
+{% hint style="warning" %}
+Los enlaces relacionados apuntan a los servidores de almacenamiento de Kaspersky, funcionales durante la creación de esta nota, cualquier cambio en las URL corresponde a movimientos de los paquetes realizados por el fabricante, en cuyo caso y de ser necesario para la descarga el proceso se debe realizar solicitando dicho paquete en el portal de soporte de Kaspersky ([https://companyaccount.kaspersky.com](https://companyaccount.kaspersky.com/))
+{% endhint %}
 
 ### Kaspersky Security Center
 
@@ -12,7 +16,7 @@
 {% endtab %}
 {% endtabs %}
 
-### Kaspersky Endpoint Security Lite
+### Kaspersky Endpoint Security - Lite
 
 {% tabs %}
 {% tab title="Español" %}
@@ -26,7 +30,7 @@
 
 
 
-### Kaspersky Endpoint Security Strong
+### Kaspersky Endpoint Security - Strong
 
 {% tabs %}
 {% tab title="Español" %}
@@ -37,3 +41,4 @@
 * [Version 11.11.0.452](https://aes.s.kaspersky-labs.com/endpoints/keswin11/11.11.0.452/english-21.8.5.452.0.27.0/3633353138397c44454c7c31/keswin\_11.11.0.452\_en\_aes256.exe)
 {% endtab %}
 {% endtabs %}
+
