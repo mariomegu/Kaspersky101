@@ -8,7 +8,8 @@ Los enlaces relacionados apuntan a los servidores de almacenamiento de Kaspersky
 
 {% tabs %}
 {% tab title="Español" %}
-* [Versión 14.0.0](https://aes.s.kaspersky-labs.com/administrationkit/ksc10/14.0.0.10902/spanish-10494078-es-MX/3631353335307c44454c7c31/ksc\_14\_14.0.0.10902\_full\_es-MX.exe)&#x20;
+* [Versión 14.0.0](https://aes.s.kaspersky-labs.com/administrationkit/ksc10/14.0.0.10902/spanish-10494078-es-MX/3631353335307c44454c7c31/ksc\_14\_14.0.0.10902\_full\_es-MX.exe)
+* [Version 14.2.0.26967](https://products.s.kaspersky-labs.com/administrationkit/ksc10/14.2.0.26967/english-12842883-en/3730353030327c44454c7c31/ksc\_14\_14.2.0.26967\_full\_en.exe)
 {% endtab %}
 
 {% tab title="Inglés" %}
