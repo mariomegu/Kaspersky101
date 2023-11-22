@@ -27,6 +27,7 @@ Los enlaces relacionados apuntan a los servidores de almacenamiento de Kaspersky
 * [Version 12.0.0.465](https://aes.s.kaspersky-labs.com/endpoints/keswin11/12.0.0.465/spanish-21.9.6.465.0.536.0/3639353831317c44454c7c31/keswin\_12.0.0.465\_es-MX\_aes56.exe)
 * [Version 12.1.0.506 | Windows | Distributive | Lite encryption](https://aes.s.kaspersky-labs.com/endpoints/keswin11/12.1.0.506/spanish-21.13.5.506.0.71.0/3732313836377c44454c7c31/keswin\_12.1.0.506\_es-MX\_aes56.exe)
 * [Version 12.2.0.462 | Windows | Distributive | Lite encryption](https://aes.s.kaspersky-labs.com/endpoints/keswin11/12.2.0.462/spanish-21.14.5.462.0.231.0/3735383230377c44454c7c31/keswin\_12.2.0.462\_es-MX\_aes56.exe)
+* [Version 12.3.0.493 | Windows | Distributive | Lite encryption](https://aes.s.kaspersky-labs.com/endpoints/keswin11/12.3.0.493/spanish-21.15.8.493.0.89.0/3737393330357c44454c7c31/keswin\_12.3.0.493\_es-MX\_aes56.exe)
 {% endtab %}
 
 {% tab title="Inglés" %}
@@ -34,6 +35,7 @@ Los enlaces relacionados apuntan a los servidores de almacenamiento de Kaspersky
 * [Version 12.0.0.465](https://aes.s.kaspersky-labs.com/endpoints/keswin11/12.0.0.465/english-21.9.6.465.0.534.0/3639353536387c44454c7c31/keswin\_12.0.0.465\_en\_aes56.exe)&#x20;
 * [Version 12.1.0.506](https://aes.s.kaspersky-labs.com/endpoints/keswin11/12.1.0.506/english-21.13.5.506.0.24.0/3732333434317c44454c7c31/keswin\_12.1.0.506\_en\_aes56.exe)
 * [Version 12.2.0.462 | Windows | Distributive | Lite encryption](https://aes.s.kaspersky-labs.com/endpoints/keswin11/12.2.0.462/english-21.14.5.462.0.189.0/3735323832357c44454c7c31/keswin\_12.2.0.462\_en\_aes56.exe)
+* [Version 12.3.0.493 | Windows | Distributive | Lite encryption](https://aes.s.kaspersky-labs.com/endpoints/keswin11/12.3.0.493/english-21.15.8.493.0.44.0/3737373837337c44454c7c31/keswin\_12.3.0.493\_en\_aes56.exe)
 {% endtab %}
 {% endtabs %}
 
@@ -47,6 +49,7 @@ Los enlaces relacionados apuntan a los servidores de almacenamiento de Kaspersky
 * [Version 12.0.0.465](https://aes.s.kaspersky-labs.com/endpoints/keswin11/12.0.0.465/english-21.9.6.465.0.534.0/3639353536377c44454c7c31/keswin\_12.0.0.465\_en\_aes256.exe)
 * [Version 12.1.0.506 | Windows | Distributive | Strong encryption](https://aes.s.kaspersky-labs.com/endpoints/keswin11/12.1.0.506/spanish-21.13.5.506.0.71.0/3732313836367c44454c7c31/keswin\_12.1.0.506\_es-MX\_aes256.exe)
 * [Version 12.2.0.462 | Windows | Distributive | Strong encryption](https://aes.s.kaspersky-labs.com/endpoints/keswin11/12.2.0.462/spanish-21.14.5.462.0.231.0/3735383230367c44454c7c31/keswin\_12.2.0.462\_es-MX\_aes256.exe)
+* [Version 12.3.0.493 | Windows | Distributive | Strong encryption](https://aes.s.kaspersky-labs.com/endpoints/keswin11/12.3.0.493/spanish-21.15.8.493.0.89.0/3737393330347c44454c7c31/keswin\_12.3.0.493\_es-MX\_aes256.exe)
 {% endtab %}
 
 {% tab title="Inglés" %}
@@ -54,6 +57,7 @@ Los enlaces relacionados apuntan a los servidores de almacenamiento de Kaspersky
 * [Version 12.0.0.465](https://aes.s.kaspersky-labs.com/endpoints/keswin11/12.0.0.465/english-21.9.6.465.0.534.0/3639353536377c44454c7c31/keswin\_12.0.0.465\_en\_aes256.exe)
 * [Version 12.1.0.506 | Windows | Distributive | Strong encryption](https://aes.s.kaspersky-labs.com/endpoints/keswin11/12.1.0.506/english-21.13.5.506.0.24.0/3732333434307c44454c7c31/keswin\_12.1.0.506\_en\_aes256.exe)
 * [Version 12.2.0.462 | Windows | Distributive | Strong encryption](https://aes.s.kaspersky-labs.com/endpoints/keswin11/12.2.0.462/english-21.14.5.462.0.189.0/3735323832347c44454c7c31/keswin\_12.2.0.462\_en\_aes256.exe)
+* [Version 12.3.0.493 | Windows | Distributive | Strong encryption](https://aes.s.kaspersky-labs.com/endpoints/keswin11/12.3.0.493/english-21.15.8.493.0.44.0/3737373837327c44454c7c31/keswin\_12.3.0.493\_en\_aes256.exe)
 {% endtab %}
 {% endtabs %}
 
