@@ -4,7 +4,7 @@ cover: >-
 coverY: -413.81725888324877
 ---
 
-# Kaspersky101
+# 🗣 Kaspersky101
 
 ## Conceptos básicos sobre el manejo de Kaspersky a nivel corporativo, tips y trucos
 

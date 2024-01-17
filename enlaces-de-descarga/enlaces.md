@@ -67,11 +67,15 @@ Los enlaces relacionados apuntan a los servidores de almacenamiento de Kaspersky
 {% tab title="DEB" %}
 * [Version 11.4.0.1096 | Debian x64 | Distributive](https://products.s.kaspersky-labs.com/endpoints/keslinux10/11.4.0.1096/multilanguage-11.4.0.1096/3732393738307c44454c7c31/kesl\_11.4.0-1096\_amd64.deb)
   * [Version 11.4.0.1096 | Debian x64 | Product GUI](https://products.s.kaspersky-labs.com/endpoints/keslinux10/11.4.0.1096/multilanguage-11.4.0.1096/3732393737377c44454c7c31/kesl-gui\_11.4.0-1096\_amd64.deb)
+* [Version 12.0.0.6672 | Debian x64 | Distributive](https://products.s.kaspersky-labs.com/endpoints/keslinux10/12.0.0.6672/multilanguage-12.0.0.6672/3739343634317c44454c7c31/kesl\_12.0.0-6672\_amd64.deb)
+  * [Version 12.0.0.6672 | Debian x64 | Product GUI](https://products.s.kaspersky-labs.com/endpoints/keslinux10/12.0.0.6672/multilanguage-12.0.0.6672/3739343633387c44454c7c31/kesl-gui\_12.0.0-6672\_amd64.deb)
 {% endtab %}
 
 {% tab title="RPM" %}
 * [Version 11.4.0.1096 | Red Hat Enterprise Linux x64 | Distributive](https://products.s.kaspersky-labs.com/endpoints/keslinux10/11.4.0.1096/multilanguage-11.4.0.1096/3732393737337c44454c7c31/kesl-11.4.0-1096.x86\_64.rpm)
   * [Version 11.4.0.1096 | Red Hat Enterprise Linux x64 | Product GUI](https://products.s.kaspersky-labs.com/endpoints/keslinux10/11.4.0.1096/multilanguage-11.4.0.1096/3732393737367c44454c7c31/kesl-gui-11.4.0-1096.x86\_64.rpm)
+* [Version 12.0.0.6672 | Red Hat Enterprise Linux x64 | Distributive](https://products.s.kaspersky-labs.com/endpoints/keslinux10/12.0.0.6672/multilanguage-12.0.0.6672/3739343633347c44454c7c31/kesl-12.0.0-6672.x86\_64.rpm)
+  * [Version 12.0.0.6672 | Red Hat Enterprise Linux x64 | Product GUI](https://products.s.kaspersky-labs.com/endpoints/keslinux10/12.0.0.6672/multilanguage-12.0.0.6672/3739343633377c44454c7c31/kesl-gui-12.0.0-6672.x86\_64.rpm)
 {% endtab %}
 {% endtabs %}
 
@@ -88,6 +92,7 @@ Los enlaces relacionados apuntan a los servidores de almacenamiento de Kaspersky
 {% tabs %}
 {% tab title="Build" %}
 * [Version 11.3.0.320 | Mac OS | Distributive](https://products.s.kaspersky-labs.com/workstations/kesmac10/11.3.0.320/multilanguage-20230314.2024.0/3730373433327c44454c7c31/kesmac11.3.0.320.zip)
+* [Version 12.0.0.325 | Mac OS | Distributive](https://products.s.kaspersky-labs.com/workstations/kesmac10/12.0.0.325/multilanguage-20231129.0032.0/3739333930307c44454c7c31/kesmac12.0.0.325.zip)
 {% endtab %}
 {% endtabs %}
 
@@ -97,11 +102,13 @@ Los enlaces relacionados apuntan a los servidores de almacenamiento de Kaspersky
 {% tab title="Español" %}
 * [Version 3.0.0.102 | Windows](https://products.s.kaspersky-labs.com/workstations/kess2.0/3.0.0.102/spanish-MX-20200805\_000003/3336353332387c44454c7c31/kess\_3.0.0.102\_es-mx.exe)
 * [Version 3.2.0.200 | Windows | Full distributive](https://products.s.kaspersky-labs.com/workstations/kess2.0/3.2.0.200/spanish-0.1.0/3639353439377c44454c7c31/kess\_3.2.0.200\_es-mx.zip)
+* [Version 3.3.0.87 | Windows | Full distributive](https://products.s.kaspersky-labs.com/workstations/kess2.0/3.2.0.200/spanish-0.1.0/3639353439377c44454c7c31/kess\_3.2.0.200\_es-mx.zip)
 {% endtab %}
 
 {% tab title="Inglés" %}
 * [Version 3.0.0.102 | Windows](https://products.s.kaspersky-labs.com/workstations/kess2.0/3.0.0.102/english-US-20200422\_081440/3331353630397c44454c7c31/kess\_3.0.0.102\_en.exe)
 * [Version 3.2.0.200 | Windows | Full distributive](https://products.s.kaspersky-labs.com/workstations/kess2.0/3.2.0.200/english-0.1.0/3635313638377c44454c7c31/kess\_3.2.0.200\_en.zip)
+* [Version 3.3.0.87 | Windows | Full distributive](https://products.s.kaspersky-labs.com/workstations/kess2.0/3.3.0.87/english-0.1.0/3739303631307c44454c7c31/kess\_win\_3.3.0.87\_en.zip)
 {% endtab %}
 {% endtabs %}
 
@@ -110,6 +117,7 @@ Los enlaces relacionados apuntan a los servidores de almacenamiento de Kaspersky
 {% tabs %}
 {% tab title="Light Agent" %}
 * [Version 5.2.27.319 | Windows | Kaspersky Security Components Installation Wizard](https://products.s.kaspersky-labs.com/administrationkit/ksvla/5.2.27.319/multilanguage-5.2.27%20\(5.2.1%20-%20Tionix\)/3538343135347c44454c7c31/ksvla-components\_5.2.1.3741\_mlg.exe)
+* [Version 6.0.7.1402 | Windows | Kaspersky Security Components Installation Wizard](https://products.s.kaspersky-labs.com/administrationkit/ksvla/6.0.7.1402/multilanguage-6.0.7/3739353333337c44454c7c31/ksvla-components\_6.0.7.4082\_mlg.exe)
 {% endtab %}
 
 {% tab title="Agentless" %}
